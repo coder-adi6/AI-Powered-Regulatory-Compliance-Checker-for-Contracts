@@ -1,4 +1,4 @@
-# AI-Powered Regulatory Compliance Checker
+# AI-Powered Regulatory Compliance Checker for Contracts
 
 Automatically analyze contracts for GDPR, HIPAA, CCPA, and SOX compliance using AI.
 
@@ -8,8 +8,8 @@ Automatically analyze contracts for GDPR, HIPAA, CCPA, and SOX compliance using 
 
 2. **Clone and Setup**
 ```bash
-git clone https://github.com/jagadishbevera152005-sys/AI-Powered-Regulatory-Compliance-Checker.git
-cd AI-Powered-Regulatory-Compliance-Checker
+git clone https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts.git
+cd AI-Powered-Regulatory-Compliance-Checker-for-Contracts
 python -m venv .venv
 .venv\Scripts\Activate.ps1  # Windows
 pip install -r requirements.txt
