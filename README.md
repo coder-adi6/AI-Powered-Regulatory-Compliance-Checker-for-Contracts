@@ -55,7 +55,7 @@ Open browser to http://localhost:8501
 
 ## Support
 
-Issues: https://github.com/jagadishbevera152005-sys/AI-Powered-Regulatory-Compliance-Checker/issues
+Issues: (https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts/issues)
 
 ## License
 
